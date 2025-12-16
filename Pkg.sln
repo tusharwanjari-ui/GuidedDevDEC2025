@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrtCalendar", "CrtCalendar"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrtCall", "CrtCall", "{3753AE4E-E756-CE2F-AE09-E1127942A8B5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrtComponentCopilot", "CrtComponentCopilot", "{C6AFB396-2C26-EA9C-EF48-C9633202F2F1}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DEgit 8}") = "CrtComponentCopilot", "CrtComponentCopilot", "{C6AFB396-2C26-EA9C-EF48-C9633202F2F1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrtCopilot", "CrtCopilot", "{939B897F-04C7-796E-CA17-38ADA71712A7}"
 EndProject
